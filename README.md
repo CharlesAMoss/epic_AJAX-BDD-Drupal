@@ -1,18 +1,10 @@
+
+## _This Project is for archive only, for further development please head to this [repo](https://github.com/CharlesAMoss/epic_AJAX-BDD-Drupal_2)_
+
 # _AJAX and Testing (BDD) examples in Drupal_
 ## _11/06/2015_
 ### By [Charles Moss](https://twitter.com/CharlesMoss)
-## Description
-_tbd_
 
-## Setup
-
-ajax_dna_admin
-password
-
-The database back-up can be found in 'sites/db_backup' folder. 
-
-```
-```
 ## Technologies Used
 _Drupal 7.4 with views and ctools modules_
 
